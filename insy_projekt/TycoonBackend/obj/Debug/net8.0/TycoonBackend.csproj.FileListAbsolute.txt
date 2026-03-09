@@ -1,0 +1,12 @@
+C:\Users\matosin.i20\Desktop\insy_projekt\TycoonBackend\bin\Debug\net8.0\TycoonBackend.deps.json
+C:\Users\matosin.i20\Desktop\insy_projekt\TycoonBackend\bin\Debug\net8.0\TycoonBackend.dll
+C:\Users\matosin.i20\Desktop\insy_projekt\TycoonBackend\bin\Debug\net8.0\TycoonBackend.pdb
+C:\Users\matosin.i20\Desktop\insy_projekt\TycoonBackend\obj\Debug\net8.0\TycoonBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matosin.i20\Desktop\insy_projekt\TycoonBackend\obj\Debug\net8.0\TycoonBackend.AssemblyInfoInputs.cache
+C:\Users\matosin.i20\Desktop\insy_projekt\TycoonBackend\obj\Debug\net8.0\TycoonBackend.AssemblyInfo.cs
+C:\Users\matosin.i20\Desktop\insy_projekt\TycoonBackend\obj\Debug\net8.0\TycoonBackend.csproj.CoreCompileInputs.cache
+C:\Users\matosin.i20\Desktop\insy_projekt\TycoonBackend\obj\Debug\net8.0\TycoonBackend.dll
+C:\Users\matosin.i20\Desktop\insy_projekt\TycoonBackend\obj\Debug\net8.0\refint\TycoonBackend.dll
+C:\Users\matosin.i20\Desktop\insy_projekt\TycoonBackend\obj\Debug\net8.0\TycoonBackend.pdb
+C:\Users\matosin.i20\Desktop\insy_projekt\TycoonBackend\obj\Debug\net8.0\ref\TycoonBackend.dll
+C:\Users\matosin.i20\Desktop\insy_projekt\TycoonBackend\obj\Debug\net8.0\TycoonBackend.csproj.AssemblyReference.cache

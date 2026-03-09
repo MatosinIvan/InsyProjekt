@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XUZpk6PVGgw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matosin.i20\\Desktop\\insy_projekt\\TycoonApp\\TycoonApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matosin.i20\\.nuget\\packages\\neo4j.driver\\6.0.0\\neo4j.driver.6.0.0.nupkg.sha512",
+    "C:\\Users\\matosin.i20\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
